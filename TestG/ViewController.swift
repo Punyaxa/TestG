@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var labelTest: UILabel!
     
     @IBAction func tapButton(_ sender: Any) {
-        labelTest.text = "I'm good"
+        labelTest.text = "I'm lucky"
     }
     
 }
